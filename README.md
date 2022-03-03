@@ -1,5 +1,5 @@
-# IAG-Insurance-Fraud-Prediction
-- Predicting Insurance fraud using a simulated dataset (ongoing project)
+# IAG Insurance Fraud Prediction
+Predicting Insurance fraud using a simulated dataset from Insurance Australia Group.
 
 [Notebook availiable here](DATA3001.ipynb).
 
